@@ -17,7 +17,7 @@ As seguintes tecnologias e ferramentas foram usadas na construção do projeto:
 
 ## 📋 Pré-requisitos
 
-Antes de iniciar, certifique-vous de ter instalado em sua máquina:
+Antes de iniciar, certifique-se de ter instalado em sua máquina:
 * [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
 * [Apache Tomcat](https://tomcat.apache.org/)
 
