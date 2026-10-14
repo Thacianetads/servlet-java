@@ -25,6 +25,7 @@ Antes de iniciar, certifique-vous de ter instalado em sua máquina:
 
 ## Estrutura
 
+```
 src/
 ├── main/
 │   ├── java/
@@ -39,4 +40,4 @@ src/
 │   │   └── *.jsp            # Visões (Views) da aplicação
 │   └── resources/           # Arquivos de configuração e scripts SQL
 
-
+```
