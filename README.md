@@ -34,10 +34,10 @@ src/
 │   │   ├── pagina4/         # Página de agendamento.
 │   │   └── paginainicial/   # Página inicial do site.
 │   ├── webapp/
-│   │   ├── WEB-INF/         # Arquivos de configuração (web.xml)
-│   │   ├── css / js / img   # Recursos estáticos
-│   │   ├── index.jsp        # Página inicial
-│   │   └── *.jsp            # Visões (Views) da aplicação
-│   └── resources/           # Arquivos de configuração e scripts SQL
+│   │   ├── WEB-INF/         # Arquivos de configuração (web.xml).
+│   │   ├── META-INF/        # Pasta padrão.
+│   │   ├── img.jpg          # Imagens usadas na aplicação.
+│   │   └── styles.css       # Arquivo CSS.
+│   └── resources/           # Arquivos de configuração.
 
 ```
